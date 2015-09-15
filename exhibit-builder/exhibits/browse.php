@@ -41,7 +41,7 @@
                     <?php endforeach; ?>
                     <?php echo pagination_links(); ?>
                     <?php else : ?>
-                    <p><?php echo 'Nenhuma exposição foi adicionado ainda.'; ?></p>
+                    <p><?php echo 'Em breve!'; ?></p>
             <?php endif; ?>
             <div class="col-md-12"><?php echo pagination_links(); ?></div>
             </div> <!-- /.row -->
