@@ -168,7 +168,7 @@
                 <div class="col-md-4">
                     <div class="row">
                         
-                        <!--Map image 
+                        <!--Map image
                         <div class="col-md-12 textcontent" id="mapa">
                             <a href="#"><img src="<?php echo img('img/veja_mapa.jpg'); ?>" />
                         </div>
