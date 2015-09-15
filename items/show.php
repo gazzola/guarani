@@ -167,11 +167,13 @@
                 <!--Right side -->
                 <div class="col-md-4">
                     <div class="row">
-                        <!--Map image -->
+                        
+                        <!--Map image 
                         <div class="col-md-12 textcontent" id="mapa">
                             <a href="#"><img src="<?php echo img('img/veja_mapa.jpg'); ?>" />
                         </div>
-                        <!--/Map image -->
+                        Map image -->
+                        
                         <!--Redes -->
                         <div class="col-md-12 textcontent" id="redes">
                              <div class="pw-widget pw-counter-vertical">         
